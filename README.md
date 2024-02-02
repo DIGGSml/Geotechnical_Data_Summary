@@ -1,7 +1,7 @@
 # DIGGS Geotechnical.xsd Parser and Summarizer
 
 ## Overview
-This tool is designed to **parse and summarize the data elements** from `Geotechnical.xsd` within DIGGS (Data Interchange for Geotechnical and Geoenvironmental Specialists) files. It provides a quick and comprehensive way to understand the contents of DIGGS files, making it easier for users to interpret and utilize the data efficiently.
+This tool is designed to **parse and summarize the data elements** from `Geotechnical.xsd` (Or any diggs xsd file!) within DIGGS (Data Interchange for Geotechnical and Geoenvironmental Specialists) files. It provides a quick and comprehensive way to understand the contents of DIGGS files, making it easier for users to interpret and utilize the data efficiently.
 
 ## Features
 - **Parsing Capability**: Efficiently parses `Geotechnical.xsd` files to extract key data elements.
